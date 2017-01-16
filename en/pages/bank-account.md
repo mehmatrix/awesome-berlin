@@ -12,6 +12,17 @@ Sidenote: I've been using Deutsche Bank as my primary bank account and I've only
 
 If you are a Deutsche Bank client you can withdraw money from your account without paying any fees if you use ATMs of any of the following banks: Deutsche Bank, Commerzbank, Postbank or HVB (HypoVerinsbank). It is also possible to use different ATMs, but usually there is a fee ranging from €3,50 to €4,50.
 
+
+## Commerzbank
+
+Everything said for Deutsche Bank can be said for Commerzbank as well.
+
+Also, you don't have to pay any fee, if you use Commerzbank as your primary account and if your net salary is more than 1K euros per month.
+
+I was able to open my bank account only with my password and anmeldung (proof of residence). They didn't ask for anything else.
+
+PS: Before you go, you need to have an appointment (you can book a time from their [website](https://www.commerzbank.de/portal/en/englisch/products-offers/contact/make-an-appointment/makeanappointment.html)), or you can trust your luck and if the agency is not crowded, they may help you.
+
 ## N26
 
 Differently from other banks, N26 is an online bank with no physical branches, so you can do everything online. Opening a bank account at N26 is also relatively easy and fast. You can sign up for an account [here](https://n26.com) and then follow the website instructions to create your bank account. You will also need a smartphone, a passport and a German address to activate your bank account.
